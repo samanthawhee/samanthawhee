@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Samantha
 
-### Some Takeaways
+### Key Takeaways
 - 🔭 I’m currently working on a customer **segmentation side project**
 - 🌱 I’m currently learning **Python** and **JavaScript/React** for the side project
 - 👯 I’m looking to collaborate on any type of ideas
